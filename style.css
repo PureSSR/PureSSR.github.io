@@ -19,17 +19,8 @@
   background-color: black;
   color: white;
 }    
-.projects {
-width: 440px;
-float: left;
-    height: 296px;
-backround-color: #333;
-    background-position: bottom;
-}
-   .projectlink{
-width: 100%; 
-    height: 100%;
-}
+
+title {text-align: center;}
 
 figure {
 display: block;
